@@ -25,11 +25,11 @@ img {
 main {
   flex-grow: 1;
 }
-.page-container {
+/* .page-container {
   min-height: 100vh;
   display: flex;
   flex-direction: column;
-}
+} */
 
 /* Page header */
 .header {
