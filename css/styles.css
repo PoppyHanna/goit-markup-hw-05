@@ -750,7 +750,7 @@ a {
 }
 
 .modal-field {
-  margin-bottom: 0 0 16px 0;
+  margin-bottom: 8px;
 }
 .modal-lable {
   display: block;
